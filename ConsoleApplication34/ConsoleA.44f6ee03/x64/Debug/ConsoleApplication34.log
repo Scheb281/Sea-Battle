@@ -1,0 +1,4 @@
+﻿  ConsoleApplication34.cpp
+C:\Users\USER\source\repos\ConsoleApplication34\ConsoleApplication34.cpp(709,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\USER\source\repos\ConsoleApplication34\ConsoleApplication34.cpp(990,10): warning C4551: в вызове функции отсутствует список аргументов
+  ConsoleApplication34.vcxproj -> C:\Users\USER\source\repos\ConsoleApplication34\x64\Debug\ConsoleApplication34.exe
